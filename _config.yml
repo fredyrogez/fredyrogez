@@ -19,8 +19,9 @@ author: Fredy Rogez
 # --- List of links in the navigation bar --- #
 ###############################################
 
-# navbar-links:
-#  About Me: "aboutme"
+navbar-links:
+#  Accueil: "/"
+#  À propos: "a-propos"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
